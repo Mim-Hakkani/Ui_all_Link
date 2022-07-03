@@ -1,7 +1,7 @@
 # Ui_all_Link
 Colour
 Resources
-    1. https://color.adobe.com/trends
+    1. https://color.adobe.com/trends <br/>
     2. https://coolors.co/palettes/trending
     3. https://mycolor.space/
     4. https://cssgradient.io/
