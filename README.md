@@ -42,3 +42,7 @@ Resources<br/>
     2. https://www.pexels.com/<br/>
     3. https://pixabay.com/<br/>
     4. https://stocksnap.io/<br/>
+    
+   ## Image Shape  <br/>
+   1.https://www.shapedivider.app/  (waves shape ) <br/>
+   2.https://bennettfeely.com/clippy/ ( css clip path generator ) <br/>
